@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "This is a management application to allow users to dynamically add and update the database through command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William-figure/EMPLOYEE-TRACKER.git"
+  },
+  "keywords": [
+    "database",
+    "manager"
+  ],
+  "author": "Yucheng Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/William-figure/EMPLOYEE-TRACKER/issues"
+  },
+  "homepage": "https://github.com/William-figure/EMPLOYEE-TRACKER#readme"
+}
