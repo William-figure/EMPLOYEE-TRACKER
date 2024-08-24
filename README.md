@@ -5,14 +5,17 @@ Employee Tracker is a command-line application built to manage a company's emplo
 
 ## Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Database Schema](#database-schema)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+- [Employee Tracker](#employee-tracker)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Example Commands](#example-commands)
+  - [Database Schema](#database-schema)
+  - [Future Enhancements](#future-enhancements)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Features
 
@@ -36,8 +39,7 @@ Employee Tracker is a command-line application built to manage a company's emplo
 1. **Clone the repository**:
 
    \`\`\`bash
-   git clone https://github.com/your-username/employee-tracker.git
-   cd employee-tracker
+   git clone https://github.com/William-figure/EMPLOYEE-TRACKER cd employee-tracker
    \`\`\`
 
 2. **Install dependencies**:
@@ -49,7 +51,7 @@ Employee Tracker is a command-line application built to manage a company's emplo
 3. **Set up PostgreSQL database**:
 
    - Ensure PostgreSQL is installed and running on your machine.
-   - Update the `app.js` file with your PostgreSQL user credentials and configuration.
+   - Update the `index.js` file with your PostgreSQL user credentials and configuration.
 
 4. **Initialize the database**:
 
