@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/William-figure/EMPLOYEE-TRACKER/issues"
   },
-  "homepage": "https://github.com/William-figure/EMPLOYEE-TRACKER#readme"
+  "homepage": "https://github.com/William-figure/EMPLOYEE-TRACKER#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "pg": "^8.12.0"
+  }
 }
