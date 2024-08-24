@@ -38,15 +38,15 @@ Employee Tracker is a command-line application built to manage a company's emplo
 
 1. **Clone the repository**:
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/William-figure/EMPLOYEE-TRACKER cd employee-tracker
-   \`\`\`
+   ```
 
 2. **Install dependencies**:
 
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 3. **Set up PostgreSQL database**:
 
@@ -61,9 +61,9 @@ Employee Tracker is a command-line application built to manage a company's emplo
 
 1. **Start the application**:
 
-   \`\`\`bash
-   node app.js
-   \`\`\`
+   ```bash
+   node index.js
+   ```
 
 2. **Follow the prompts**:
 
