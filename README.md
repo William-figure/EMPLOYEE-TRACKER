@@ -12,6 +12,7 @@ Employee Tracker is a command-line application built to manage a company's emplo
   - [Installation](#installation)
   - [Usage](#usage)
     - [Example Commands](#example-commands)
+  - [Screenshot](#screenshot)
   - [Database Schema](#database-schema)
   - [Future Enhancements](#future-enhancements)
   - [Contributing](#contributing)
@@ -75,6 +76,10 @@ Employee Tracker is a command-line application built to manage a company's emplo
 - **View All Departments**: Displays a list of all departments.
 - **Add a Role**: Prompts for the role's name, salary, and department.
 - **Add an Employee**: Prompts for the employee's name, role, and manager.
+
+## Screenshot
+
+![Project Demo](./Screen%20Recording%202024-08-24%20220908.gif)
 
 ## Database Schema
 
